@@ -1,0 +1,24 @@
+[00:08:59]: || Server: [54.37.238.237] | G-Messages use for delay 0
+[00:08:59]: || Server: [54.37.238.237] | Antistealler by DarkP1xel not found
+[00:08:59]: || Server: [54.37.238.237] | Autoupdate status: No
+[00:09:00]: || Server: [54.37.238.237] | Antistealler (bypass) not found, but autoupdate didn't reach. Log sended to server
+[00:08:59]: || Server: [54.37.238.237] | INI loaded
+[00:08:59]: || Server: [54.37.238.237] | Functions part 1 load start
+[00:09:00]: || Server: [54.37.238.237] | Functions part 2 load end
+[00:09:00]: || Server: [54.37.238.237] | Settings:
+- Key: 75
+- Bypass
+- Other functions toggle
+[00:09:00]: || Server: [54.37.238.237] | Files:
+- Lib: Loaded
+- G-Security: Loaded
+- Notify: Loaded
+- TG Notify: Not Found
+[00:09:00]: || Server: [54.37.238.237] | Telegram:
+- Request didn't reach
+[00:09:00]: || Server: [54.37.238.237] | Web status:
+- Request didn't reach
+[00:09:01]: || Server: [54.37.238.237] | Status:
+- Everything loaded, but errors were found:
+- Web side unavailable. Maybe no internet access?
+[00:09:01]: || Server: [54.37.238.237] | Loaded with minor errors. Launch possible.
